@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    text-align: center;
+    color: #334B30;
+    background-image: url(url);
+}
+.heroIMG {
+    height: 300px;
+    background-image: url(Great-Potoo_Bernard-DUPONT_flickr-CROP_Web.jpg);
+    background-position: 55% 0%;
+    background-size: auto 477px;
+}
+main a:link {
+    text-decoration: none;
+    color: #90A36D;
+    text-align: center;
+}
+header h1 {
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 62px;
+}
+main ul {
+    background-color: #909F63;
+    border-radius: 13px;
+    color: #FFFFFF;
+}
+main p a {
+    font-size: 17px;
+    text-align: center;
+}
+main a:hover {
+    color: #DDC06D;
+}
+nav a:visited {
+    color: #909F63;
+}
+nav a:link {
+    text-decoration: none;
+    color: #617B5C;
+}
+nav a:hover {
+    color: #DDC06D;
+}
+main h2 {
+    font-weight: bold;
+    background-color: #DDC06D;
+    color: #F9F9F9;
+    border-radius: 34px;
+    text-align: center;
+}
+.blackIMG {
+    height: 3px;
+    background-color: #334B30;
+}
